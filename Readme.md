@@ -2,7 +2,7 @@
 
 This repository contains the source code for a full-featured blogging website built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application allows users to perform various operations on blog posts, including creating, editing, deleting, and viewing specific posts.
 
-## Features
+
 
 - **Create Blog Posts**: Users can add new blog entries with a title and content.
 - **Edit Blog Posts**: Users can modify the content of existing blog entries.
